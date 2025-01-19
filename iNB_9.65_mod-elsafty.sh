@@ -83,7 +83,7 @@ echo "   UPLOADED BY  >>>>   EMIL_NABIL "
 sleep 4
 echo " SUPPORTED BY  >>>>  linuxsat  " 
 sleep 4
-echo" Moded By Elsafty"
+echo " Moded By Elsafty"
 sleep 4
 echo "***********************************************************************
 #########################
@@ -118,6 +118,7 @@ else
     init 6
 fi
 exit 0
+
 
 
 
